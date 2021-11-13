@@ -2,7 +2,9 @@
 
 {
   // "workbench.colorTheme": "One Dark Pro Darker",
+  
   "terminal.integrated.defaultProfile.windows": "Git Bash",
+  
   "editor.fontSize": 16,
   "files.autoSave": "off",
   "editor.tabSize": 1,
